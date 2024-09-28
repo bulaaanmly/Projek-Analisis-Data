@@ -12,5 +12,5 @@ streamlit run dashboard.py
 
 ## URL Link Streamlit
 ```
-https://nwt29buqzektlcvflwzark.streamlit.app/
+http://localhost:8504
 ```
